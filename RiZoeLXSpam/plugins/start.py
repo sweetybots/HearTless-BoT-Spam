@@ -11,7 +11,7 @@ RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5e
 
 Riz_Button = [
         [
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/DNHxHELL")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/STAR_BOY_KA_ADDA")
         ],
         [
         Button.inline("• ᴄᴍᴅs •", data="help_back")
@@ -20,11 +20,11 @@ Riz_Button = [
                
 RizX_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DNHxHELL")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/ABOUT_STAR_BOY"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/ABOUT_STAR_BOY")
         ],
         [
-        Button.url("• ʀᴇᴘᴏ •", "https://github.com/MrRizoel/SpamBot")
+        Button.url("• ʀᴇᴘᴏ •", "https://github.com/sweetybots/HearTless-BoT-Spam")
         ]
         ]
         
